@@ -22,3 +22,15 @@ C:\Users\ikerh\Downloads\practica3_promedios-main (1)\practica3_promedios-main\p
 C:\Users\ikerh\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3\practica3\obj\Debug\practica3.exe
 C:\Users\ikerh\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3\practica3\obj\Debug\practica3.xml
 C:\Users\ikerh\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3\practica3\obj\Debug\practica3.pdb
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\bin\Debug\practica3.exe.config
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\bin\Debug\practica3.exe
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\bin\Debug\practica3.pdb
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\bin\Debug\practica3.xml
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.Form1.resources
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.Resources.resources
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.exe
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.xml
+C:\Users\win512\Downloads\practica3_promedios-main (1)\practica3_promedios-main\practica3_Iker\practica3\obj\Debug\practica3.pdb
